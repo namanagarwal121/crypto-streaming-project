@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+
+delta/
+checkpoints/
+kafka-logs/
+spark-warehouse/
+
+.ipynb_checkpoints/
+
+miniconda3/
+spark310/

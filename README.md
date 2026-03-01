@@ -176,5 +176,4 @@ It showcases:
 
 <p>
 Naman Agarwal<br>
-Data Engineer
 </p>
